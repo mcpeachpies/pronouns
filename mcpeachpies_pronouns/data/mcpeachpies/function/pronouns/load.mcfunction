@@ -6,4 +6,3 @@ scoreboard objectives add mpp_datapacks dummy {"text":"mcpeachpies Datapacks","c
 execute unless score mpp_pronouns_setup mpp_datapacks matches 1.. run function mcpeachpies:pronouns/setup
 
 schedule function mcpeachpies:pronouns/clock 1t
-schedule function mcpeachpies:pronouns/exi/clock 20t
