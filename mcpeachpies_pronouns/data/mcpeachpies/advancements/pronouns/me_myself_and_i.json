@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "name_tag"
+      "item": "name_tag"
     },
     "title": "Me, Myself, & I",
     "description": "Declare your pronouns with /trigger pronouns",

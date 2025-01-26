@@ -103,8 +103,8 @@ team add mpp_prn_they_she
 team modify mpp_prn_they_she suffix ["",{"text":" [they/she]","color":"gray"}]
 team add mpp_prn_they_her
 team modify mpp_prn_they_her suffix ["",{"text":" [they/her]","color":"gray"}]
-team add mpp_prn_they_them
-team modify mpp_prn_they_them suffix ["",{"text":" [they/them]","color":"gray"}]
+team add mpp_prn_they_thm
+team modify mpp_prn_they_thm suffix ["",{"text":" [they/them]","color":"gray"}]
 team add mpp_prn_them_he
 team modify mpp_prn_them_he suffix ["",{"text":" [them/he]","color":"gray"}]
 team add mpp_prn_them_him
@@ -117,53 +117,53 @@ team add mpp_prn_them_she
 team modify mpp_prn_them_she suffix ["",{"text":" [them/she]","color":"gray"}]
 team add mpp_prn_them_her
 team modify mpp_prn_them_her suffix ["",{"text":" [them/her]","color":"gray"}]
-team add mpp_prn_them_they
-team modify mpp_prn_them_they suffix ["",{"text":" [them/they]","color":"gray"}]
-team add mpp_prn_he_she_they
-team modify mpp_prn_he_she_they suffix ["",{"text":" [he/she/they]","color":"gray"}]
-team add mpp_prn_he_she_it
-team modify mpp_prn_he_she_it suffix ["",{"text":" [he/she/it]","color":"gray"}]
-team add mpp_prn_he_they_she
-team modify mpp_prn_he_they_she suffix ["",{"text":" [he/they/she]","color":"gray"}]
-team add mpp_prn_he_they_it
-team modify mpp_prn_he_they_it suffix ["",{"text":" [he/they/it]","color":"gray"}]
-team add mpp_prn_he_it_she
-team modify mpp_prn_he_it_she suffix ["",{"text":" [he/it/she]","color":"gray"}]
-team add mpp_prn_he_it_they
-team modify mpp_prn_he_it_they suffix ["",{"text":" [he/it/they]","color":"gray"}]
-team add mpp_prn_she_he_they
-team modify mpp_prn_she_he_they suffix ["",{"text":" [she/he/they]","color":"gray"}]
-team add mpp_prn_she_he_it
-team modify mpp_prn_she_he_it suffix ["",{"text":" [she/he/it]","color":"gray"}]
-team add mpp_prn_she_they_he
-team modify mpp_prn_she_they_he suffix ["",{"text":" [she/they/he]","color":"gray"}]
-team add mpp_prn_she_they_it
-team modify mpp_prn_she_they_it suffix ["",{"text":" [she/they/it]","color":"gray"}]
-team add mpp_prn_she_it_he
-team modify mpp_prn_she_it_he suffix ["",{"text":" [she/it/he]","color":"gray"}]
-team add mpp_prn_she_it_they
-team modify mpp_prn_she_it_they suffix ["",{"text":" [she/it/they]","color":"gray"}]
-team add mpp_prn_they_he_she
-team modify mpp_prn_they_he_she suffix ["",{"text":" [they/he/she]","color":"gray"}]
-team add mpp_prn_they_he_it
-team modify mpp_prn_they_he_it suffix ["",{"text":" [they/he/it]","color":"gray"}]
-team add mpp_prn_they_she_he
-team modify mpp_prn_they_she_he suffix ["",{"text":" [they/she/he]","color":"gray"}]
-team add mpp_prn_they_she_it
-team modify mpp_prn_they_she_it suffix ["",{"text":" [they/she/it]","color":"gray"}]
-team add mpp_prn_they_it_he
-team modify mpp_prn_they_it_he suffix ["",{"text":" [they/it/he]","color":"gray"}]
-team add mpp_prn_they_it_she
-team modify mpp_prn_they_it_she suffix ["",{"text":" [they/it/she]","color":"gray"}]
-team add mpp_prn_it_he_she
-team modify mpp_prn_it_he_she suffix ["",{"text":" [it/he/she]","color":"gray"}]
-team add mpp_prn_it_he_they
-team modify mpp_prn_it_he_they suffix ["",{"text":" [it/he/they]","color":"gray"}]
-team add mpp_prn_it_she_he
-team modify mpp_prn_it_she_he suffix ["",{"text":" [it/she/he]","color":"gray"}]
-team add mpp_prn_it_she_they
-team modify mpp_prn_it_she_they suffix ["",{"text":" [it/she/they]","color":"gray"}]
-team add mpp_prn_it_they_he
-team modify mpp_prn_it_they_he suffix ["",{"text":" [it/they/he]","color":"gray"}]
-team add mpp_prn_it_they_she
-team modify mpp_prn_it_they_she suffix ["",{"text":" [it/they/she]","color":"gray"}]
+team add mpp_prn_thm_thy
+team modify mpp_prn_thm_thy suffix ["",{"text":" [them/they]","color":"gray"}]
+team add mpp_prn_h_sh_thy
+team modify mpp_prn_h_sh_thy suffix ["",{"text":" [he/she/they]","color":"gray"}]
+team add mpp_prn_h_sh_it
+team modify mpp_prn_h_sh_it suffix ["",{"text":" [he/she/it]","color":"gray"}]
+team add mpp_prn_h_thy_sh
+team modify mpp_prn_h_thy_sh suffix ["",{"text":" [he/they/she]","color":"gray"}]
+team add mpp_prn_h_thy_it
+team modify mpp_prn_h_thy_it suffix ["",{"text":" [he/they/it]","color":"gray"}]
+team add mpp_prn_h_it_sh
+team modify mpp_prn_h_it_sh suffix ["",{"text":" [he/it/she]","color":"gray"}]
+team add mpp_prn_h_it_thy
+team modify mpp_prn_h_it_thy suffix ["",{"text":" [he/it/they]","color":"gray"}]
+team add mpp_prn_sh_h_thy
+team modify mpp_prn_sh_h_thy suffix ["",{"text":" [she/he/they]","color":"gray"}]
+team add mpp_prn_sh_h_it
+team modify mpp_prn_sh_h_it suffix ["",{"text":" [she/he/it]","color":"gray"}]
+team add mpp_prn_sh_thy_h
+team modify mpp_prn_sh_thy_h suffix ["",{"text":" [she/they/he]","color":"gray"}]
+team add mpp_prn_sh_thy_i
+team modify mpp_prn_sh_thy_i suffix ["",{"text":" [she/they/it]","color":"gray"}]
+team add mpp_prn_sh_it_h
+team modify mpp_prn_sh_it_h suffix ["",{"text":" [she/it/he]","color":"gray"}]
+team add mpp_prn_sh_t_thy
+team modify mpp_prn_sh_t_thy suffix ["",{"text":" [she/it/they]","color":"gray"}]
+team add mpp_prn_thy_h_sh
+team modify mpp_prn_thy_h_sh suffix ["",{"text":" [they/he/she]","color":"gray"}]
+team add mpp_prn_thy_h_it
+team modify mpp_prn_thy_h_it suffix ["",{"text":" [they/he/it]","color":"gray"}]
+team add mpp_prn_thy_sh_h
+team modify mpp_prn_thy_sh_h suffix ["",{"text":" [they/she/he]","color":"gray"}]
+team add mpp_prn_thy_sh_t
+team modify mpp_prn_thy_sh_t suffix ["",{"text":" [they/she/it]","color":"gray"}]
+team add mpp_prn_thy_t_h
+team modify mpp_prn_thy_t_h suffix ["",{"text":" [they/it/he]","color":"gray"}]
+team add mpp_prn_thy_t_sh
+team modify mpp_prn_thy_t_sh suffix ["",{"text":" [they/it/she]","color":"gray"}]
+team add mpp_prn_t_h_sh
+team modify mpp_prn_t_h_sh suffix ["",{"text":" [it/he/she]","color":"gray"}]
+team add mpp_prn_t_h_thy
+team modify mpp_prn_t_h_thy suffix ["",{"text":" [it/he/they]","color":"gray"}]
+team add mpp_prn_t_sh_h
+team modify mpp_prn_t_sh_h suffix ["",{"text":" [it/she/he]","color":"gray"}]
+team add mpp_prn_t_sh_thy
+team modify mpp_prn_t_sh_thy suffix ["",{"text":" [it/she/they]","color":"gray"}]
+team add mpp_prn_t_thy_h
+team modify mpp_prn_t_thy_h suffix ["",{"text":" [it/they/he]","color":"gray"}]
+team add mpp_prn_t_thy_sh
+team modify mpp_prn_t_thy_sh suffix ["",{"text":" [it/they/she]","color":"gray"}]
